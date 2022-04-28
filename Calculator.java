@@ -3,7 +3,7 @@ import java.util.*;
 public class Calculator{
 
   public int add(int a, int b){ 
-    return 0; 
+    return a+b; 
   }
   public int sub(int a, int b){ 
     return 0;
